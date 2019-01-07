@@ -1,0 +1,29 @@
+ Volume in drive C is Windows
+ Volume Serial Number is BAE7-516A
+
+ Directory of C:\Users\HP
+
+07-01-2019  12:14    <DIR>          .
+07-01-2019  12:14    <DIR>          ..
+02-01-2019  07:40    <DIR>          .eclipse
+02-01-2019  06:59    <DIR>          .m2
+06-01-2019  23:27    <DIR>          .p2
+02-01-2019  06:57    <DIR>          .tooling
+30-12-2018  20:35    <DIR>          3D Objects
+30-12-2018  20:35    <DIR>          Contacts
+06-01-2019  09:39    <DIR>          Desktop
+02-01-2019  06:44    <DIR>          Documents
+07-01-2019  11:52    <DIR>          Downloads
+02-01-2019  06:35    <DIR>          eclipse
+06-01-2019  03:52    <DIR>          eclipse-workspace
+30-12-2018  20:35    <DIR>          Favorites
+30-12-2018  20:35    <DIR>          Links
+30-12-2018  20:35    <DIR>          Music
+30-12-2018  20:43    <DIR>          OneDrive
+30-12-2018  20:35    <DIR>          Pictures
+30-12-2018  20:35    <DIR>          Saved Games
+30-12-2018  20:35    <DIR>          Searches
+07-01-2019  12:14                 0 Text1.txt
+30-12-2018  20:35    <DIR>          Videos
+               1 File(s)              0 bytes
+              21 Dir(s)  159,377,559,552 bytes free
